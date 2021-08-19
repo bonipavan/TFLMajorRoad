@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TFLMajorRoadStatus/bin
+/TFLMajorRoadStatus/.vs
+/TFLMajorRoadStatus/obj
+/.vs
+/TFLMajorRoadStatus/Properties/PublishProfiles
+/TFLMajorRoadStatusBLL/bin
+/TFLMajorRoadStatusBLL/obj
+/TFLMajorRoadStatusTest/bin
+/TFLMajorRoadStatusTest/obj
